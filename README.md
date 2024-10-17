@@ -29,3 +29,5 @@ This app uses several Flutter packages:
 To install the dependencies, run:
 ```bash
 flutter pub get
+DEVELOPED BY:
+SOFTWARE ENGINEER MUHAMMAD UWAIM QURESHI
